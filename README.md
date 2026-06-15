@@ -1,7 +1,7 @@
 # Bondi - Blog
 Bondi is a modern, responsive single-page landing page designed for creative agencies, digital studios, and freelancers. Built with semantic HTML5 and modern CSS3 (utilizing Bootstrap components), the template features a sleek, user-friendly interface optimized to showcase digital services and design portfolios.
 
-# Key Sections:
+# Key Features:
 
 1- Hero Section: A minimalist, high-impact welcome area featuring the catchy tagline "Taste the Creativity" and a clear call-to-action (CTA).
 
